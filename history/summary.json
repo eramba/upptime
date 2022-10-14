@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 984,
-    "timeDay": 984,
-    "timeWeek": 984,
-    "timeMonth": 984,
-    "timeYear": 984,
+    "time": 944,
+    "timeDay": 944,
+    "timeWeek": 944,
+    "timeMonth": 944,
+    "timeYear": 944,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/discussions.eramba.org.ico",
     "slug": "eramba-discussions",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 501,
-    "timeDay": 501,
-    "timeWeek": 501,
-    "timeMonth": 501,
-    "timeYear": 501,
+    "uptime": "71.42%",
+    "uptimeDay": "71.42%",
+    "uptimeWeek": "71.42%",
+    "uptimeMonth": "71.42%",
+    "uptimeYear": "71.42%",
+    "time": 517,
+    "timeDay": 517,
+    "timeWeek": 517,
+    "timeMonth": 517,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2022-10-14": 0
+      "2022-10-14": 35
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 682,
-    "timeWeek": 682,
-    "timeMonth": 682,
-    "timeYear": 682,
+    "time": 729,
+    "timeDay": 729,
+    "timeWeek": 729,
+    "timeMonth": 729,
+    "timeYear": 729,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1096,
-    "timeDay": 1096,
-    "timeWeek": 1096,
-    "timeMonth": 1096,
-    "timeYear": 1096,
+    "time": 1094,
+    "timeDay": 1094,
+    "timeWeek": 1094,
+    "timeMonth": 1094,
+    "timeYear": 1094,
     "dailyMinutesDown": {}
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-14": 87
+      "2022-10-14": 121
     }
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1321,
-    "timeDay": 1321,
-    "timeWeek": 1321,
-    "timeMonth": 1321,
-    "timeYear": 1321,
+    "time": 1338,
+    "timeDay": 1338,
+    "timeWeek": 1338,
+    "timeMonth": 1338,
+    "timeYear": 1338,
     "dailyMinutesDown": {}
   }
 ]
