@@ -13,6 +13,8 @@ sites:
     url: https://demo-e.cloud.eramba.org
   - name: Test Dead Cloud Instance
     url: https://dead.cloud.eramba.org
+  - name: Test
+    url: https://eramba.cloud.eramba.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
