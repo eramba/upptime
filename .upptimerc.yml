@@ -23,7 +23,7 @@ status-website:
   baseUrl: /upptime
   theme: light
   logoUrl: https://raw.githubusercontent.com/eramba/upptime/master/assets/eramba-logo.svg
-  name:
+  name: ""
   introTitle: ""
   introMessage:
   navbar:
