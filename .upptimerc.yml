@@ -22,8 +22,8 @@ status-website:
 #  cname: eramba.github.io
   baseUrl: /upptime
   theme: light
-  logoUrl: https://raw.githubusercontent.com/eramba/upptime/master/assets/upptime-icon.svg
-  name: 
+  logoUrl: https://raw.githubusercontent.com/eramba/upptime/master/assets/eramba-logo.svg
+  name:
   introTitle: ""
   introMessage:
   navbar:
