@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dead.cloud.eramba.org.ico",
     "slug": "test-dead-cloud-instance",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-14": 55
+      "2022-10-14": 58
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://eramba.cloud.eramba.org",
     "icon": "https://icons.duckduckgo.com/ip3/eramba.cloud.eramba.org.ico",
     "slug": "test",
-    "status": "down",
-    "uptime": "98.48%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.48%",
-    "time": 1308,
-    "timeDay": 1308,
-    "timeWeek": 1308,
-    "timeMonth": 1308,
-    "timeYear": 1308,
+    "status": "up",
+    "uptime": "78.55%",
+    "uptimeDay": "78.55%",
+    "uptimeWeek": "78.55%",
+    "uptimeMonth": "78.55%",
+    "uptimeYear": "78.55%",
+    "time": 1321,
+    "timeDay": 1321,
+    "timeWeek": 1321,
+    "timeMonth": 1321,
+    "timeYear": 1321,
     "dailyMinutesDown": {
-      "2022-10-14": 0
+      "2022-10-14": 4
     }
   }
 ]
