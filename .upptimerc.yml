@@ -8,9 +8,17 @@ sites:
   - name: Eramba Discussions
     url: https://discussions.eramba.org/
   - name: Demo Community Cloud
-    url: https://demo.cloud.eramba.org
+    url: https://demo.cloud.eramba.org/api/projects/index
+    headers:
+      - "Authorization: Basic YWRtaW46YWxwaGFudW1lcmljMQ=="
+      - "Content-Type: application/json"
+      - "Accept: application/json"
   - name: Demo Enterprise Cloud
-    url: https://demo-e.cloud.eramba.org
+    url: https://demo-e.cloud.eramba.org/api/projects/index
+    headers:
+      - "Authorization: Basic YWRtaW46YWxwaGFudW1lcmljMQ=="
+      - "Content-Type: application/json"
+      - "Accept: application/json"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
