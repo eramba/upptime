@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 815,
-    "timeDay": 745,
-    "timeWeek": 815,
-    "timeMonth": 815,
-    "timeYear": 815,
+    "time": 803,
+    "timeDay": 717,
+    "timeWeek": 803,
+    "timeMonth": 803,
+    "timeYear": 803,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "97.05%",
     "uptimeMonth": "97.05%",
     "uptimeYear": "97.05%",
-    "time": 568,
-    "timeDay": 660,
-    "timeWeek": 568,
-    "timeMonth": 568,
-    "timeYear": 568,
+    "time": 570,
+    "timeDay": 650,
+    "timeWeek": 570,
+    "timeMonth": 570,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2022-10-16": 30,
       "2022-10-14": 94
@@ -40,7 +40,7 @@
   },
   {
     "name": "Demo Community Cloud",
-    "url": "https://demo.cloud.eramba.org",
+    "url": "https://demo.cloud.eramba.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo.cloud.eramba.org.ico",
     "slug": "demo-community-cloud",
     "status": "up",
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 713,
-    "timeWeek": 735,
-    "timeMonth": 735,
-    "timeYear": 735,
+    "time": 715,
+    "timeDay": 635,
+    "timeWeek": 715,
+    "timeMonth": 715,
+    "timeYear": 715,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1242,
-    "timeDay": 1438,
-    "timeWeek": 1242,
-    "timeMonth": 1242,
-    "timeYear": 1242,
+    "time": 1243,
+    "timeDay": 1405,
+    "timeWeek": 1243,
+    "timeMonth": 1243,
+    "timeYear": 1243,
     "dailyMinutesDown": {}
   }
 ]
