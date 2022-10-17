@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eramba.org.ico",
     "slug": "eramba-web",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 813,
     "timeDay": 719,
     "timeWeek": 813,
     "timeMonth": 813,
     "timeYear": 813,
-    "dailyMinutesDown": {
-      "2022-10-17": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Eramba Discussions",
@@ -46,19 +44,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.cloud.eramba.org.ico",
     "slug": "demo-community-cloud",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 725,
     "timeDay": 642,
     "timeWeek": 725,
     "timeMonth": 725,
     "timeYear": 725,
-    "dailyMinutesDown": {
-      "2022-10-17": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Demo Enterprise Cloud",
