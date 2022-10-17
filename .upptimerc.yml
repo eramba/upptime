@@ -8,7 +8,7 @@ sites:
   - name: Eramba Discussions
     url: https://discussions.eramba.org/
   - name: Demo Community Cloud
-    url: https://demo.cloud.eramba.org
+    url: https://demo.cloud.eramba.org/login
   - name: Demo Enterprise Cloud
     url: https://demo-e.cloud.eramba.org/api/projects/index
     headers:
