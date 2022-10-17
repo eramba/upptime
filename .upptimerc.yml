@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Eramba Web
-    url: https://www.eramba.org
+    url: https://www.eramba.org/about-us
   - name: Eramba Discussions
     url: https://discussions.eramba.org/
   - name: Demo Community Cloud
