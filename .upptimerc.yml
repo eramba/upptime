@@ -6,7 +6,7 @@ sites:
   - name: Eramba Web
     url: https://www.eramba.org/about-us
   - name: Eramba Discussions
-    url: https://discussions.eramba.org/
+    url: https://discussions.eramba.org/about
   - name: Demo Community Cloud
     url: https://demo.cloud.eramba.org/login
   - name: Demo Enterprise Cloud
