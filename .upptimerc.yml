@@ -10,6 +10,8 @@ sites:
   - name: Demo Community Cloud
     url: https://demo.cloud.eramba.org/login
   - name: Demo Enterprise Cloud
+    url: https://demo-e.cloud.eramba.org/login
+  - name: Demo Enterprise Cloud API
     url: https://demo-e.cloud.eramba.org/api/projects/index
     headers:
       - "Authorization: Basic YWRtaW46YWxwaGFudW1lcmljMQ=="
