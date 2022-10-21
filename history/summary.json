@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 952,
     "timeDay": 855,
-    "timeWeek": 952,
+    "timeWeek": 1045,
     "timeMonth": 952,
     "timeYear": 952,
     "dailyMinutesDown": {}
@@ -23,14 +23,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/discussions.eramba.org.ico",
     "slug": "eramba-discussions",
     "status": "up",
-    "uptime": "98.68%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "98.68%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
     "time": 560,
     "timeDay": 630,
-    "timeWeek": 560,
+    "timeWeek": 608,
     "timeMonth": 560,
     "timeYear": 560,
     "dailyMinutesDown": {
@@ -51,7 +51,7 @@
     "uptimeYear": "100.00%",
     "time": 839,
     "timeDay": 613,
-    "timeWeek": 839,
+    "timeWeek": 966,
     "timeMonth": 839,
     "timeYear": 839,
     "dailyMinutesDown": {}
@@ -61,25 +61,27 @@
     "url": "https://demo-e.cloud.eramba.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo-e.cloud.eramba.org.ico",
     "slug": "demo-enterprise-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1191,
     "timeDay": 969,
-    "timeWeek": 1191,
+    "timeWeek": 1229,
     "timeMonth": 1191,
     "timeYear": 1191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-21": 0
+    }
   },
   {
     "name": "Demo Enterprise Cloud API",
     "url": "https://demo-e.cloud.eramba.org/api/projects/index",
     "icon": "https://icons.duckduckgo.com/ip3/demo-e.cloud.eramba.org.ico",
     "slug": "demo-enterprise-cloud-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -90,6 +92,8 @@
     "timeWeek": 1017,
     "timeMonth": 1017,
     "timeYear": 1017,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-21": 0
+    }
   }
 ]
