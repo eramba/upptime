@@ -7,6 +7,9 @@ sites:
     url: https://www.eramba.org/about-us
   - name: Eramba Discussions
     url: https://discussions.eramba.org/about
+  - name: Eramba Plugins
+    url: https://plugins.eramba.org
+    __dangerous__body_down_if_text_missing: "This is a private Composer repository."
   - name: Demo Community Cloud
     url: https://demo.cloud.eramba.org/login
   - name: Demo Enterprise Cloud
