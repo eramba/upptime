@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/discussions.eramba.org.ico",
     "slug": "eramba-discussions",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 560,
     "timeDay": 350,
     "timeWeek": 533,
@@ -43,9 +43,9 @@
     "url": "https://plugins.eramba.org",
     "icon": "https://icons.duckduckgo.com/ip3/plugins.eramba.org.ico",
     "slug": "eramba-plugins",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 835,
     "timeMonth": 835,
     "timeYear": 835,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-29": 0
+    }
   },
   {
     "name": "Demo Community Cloud",
