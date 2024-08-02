@@ -1,7 +1,7 @@
 url: https://demo.cloud.eramba.org/login
-status: down
-code: 404
-responseTime: 317
-lastUpdated: 2024-08-02T20:26:19.779Z
+status: up
+code: 200
+responseTime: 454
+lastUpdated: 2024-08-02T20:44:06.267Z
 startTime: 2022-10-14T11:58:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
