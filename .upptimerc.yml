@@ -3,7 +3,7 @@ owner: eramba # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 workflowSchedule:
-  uptime: "*/20 * * * *"
+  uptime: "1,15,35,45 * * * *"
 
 sites:
   - name: Eramba Web
