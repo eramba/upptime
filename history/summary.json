@@ -11,10 +11,10 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 757,
-    "timeDay": 971,
-    "timeWeek": 841,
-    "timeMonth": 796,
-    "timeYear": 761,
+    "timeDay": 702,
+    "timeWeek": 803,
+    "timeMonth": 794,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2025-05-29": 13,
       "2025-04-16": 9,
@@ -35,10 +35,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 580,
-    "timeDay": 716,
-    "timeWeek": 619,
-    "timeMonth": 633,
-    "timeYear": 576,
+    "timeDay": 597,
+    "timeWeek": 601,
+    "timeMonth": 631,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2025-06-16": 17,
       "2025-04-09": 21
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 935,
-    "timeDay": 1240,
-    "timeWeek": 1052,
-    "timeMonth": 1094,
-    "timeYear": 939,
+    "time": 934,
+    "timeDay": 594,
+    "timeWeek": 942,
+    "timeMonth": 1081,
+    "timeYear": 937,
     "dailyMinutesDown": {}
   },
   {
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.75%",
-    "time": 785,
-    "timeDay": 1295,
-    "timeWeek": 1211,
-    "timeMonth": 1156,
-    "timeYear": 845,
+    "time": 786,
+    "timeDay": 1342,
+    "timeWeek": 1245,
+    "timeMonth": 1167,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2025-05-22": 17,
       "2025-03-06": 393,
@@ -107,8 +107,7 @@
       "2024-06-23": 20,
       "2024-06-22": 6,
       "2024-06-21": 9,
-      "2024-06-20": 10,
-      "2024-06-19": 11
+      "2024-06-20": 10
     }
   },
   {
@@ -118,15 +117,15 @@
     "slug": "demo-enterprise-cloud",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "98.78%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.91%",
     "uptimeMonth": "98.23%",
     "uptimeYear": "99.60%",
     "time": 845,
-    "timeDay": 722,
-    "timeWeek": 1177,
-    "timeMonth": 963,
-    "timeYear": 809,
+    "timeDay": 1172,
+    "timeWeek": 1161,
+    "timeMonth": 969,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2025-06-17": 18,
       "2025-06-14": 477,
@@ -178,8 +177,7 @@
       "2024-06-24": 4,
       "2024-06-23": 20,
       "2024-06-22": 6,
-      "2024-06-20": 11,
-      "2024-06-19": 11
+      "2024-06-20": 11
     }
   },
   {
@@ -189,15 +187,15 @@
     "slug": "demo-enterprise-cloud-api",
     "status": "up",
     "uptime": "98.27%",
-    "uptimeDay": "98.78%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.91%",
     "uptimeMonth": "98.23%",
     "uptimeYear": "97.50%",
-    "time": 3948,
-    "timeDay": 4597,
-    "timeWeek": 6683,
-    "timeMonth": 6574,
-    "timeYear": 4534,
+    "time": 3964,
+    "timeDay": 12328,
+    "timeWeek": 6779,
+    "timeMonth": 6670,
+    "timeYear": 4563,
     "dailyMinutesDown": {
       "2025-06-17": 18,
       "2025-06-14": 477,
@@ -271,8 +269,7 @@
       "2024-06-24": 4,
       "2024-06-23": 20,
       "2024-06-22": 6,
-      "2024-06-20": 11,
-      "2024-06-19": 11
+      "2024-06-20": 11
     }
   }
 ]
