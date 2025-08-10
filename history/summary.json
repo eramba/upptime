@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 775,
-    "timeDay": 3034,
-    "timeWeek": 1273,
-    "timeMonth": 998,
+    "time": 776,
+    "timeDay": 790,
+    "timeWeek": 1290,
+    "timeMonth": 993,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2025-05-29": 13,
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 592,
-    "timeDay": 876,
-    "timeWeek": 709,
-    "timeMonth": 696,
+    "timeDay": 703,
+    "timeWeek": 744,
+    "timeMonth": 694,
     "timeYear": 593,
     "dailyMinutesDown": {
       "2025-06-16": 17,
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 941,
-    "timeDay": 1245,
-    "timeWeek": 998,
-    "timeMonth": 1005,
+    "timeDay": 1019,
+    "timeWeek": 1037,
+    "timeMonth": 998,
     "timeYear": 948,
     "dailyMinutesDown": {}
   },
@@ -74,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 871,
-    "timeDay": 1253,
-    "timeWeek": 1270,
-    "timeMonth": 1172,
+    "timeDay": 976,
+    "timeWeek": 1289,
+    "timeMonth": 1171,
     "timeYear": 941,
     "dailyMinutesDown": {
       "2025-07-04": 284,
@@ -91,8 +91,7 @@
       "2024-08-15": 18,
       "2024-08-14": 18,
       "2024-08-13": 18,
-      "2024-08-11": 18,
-      "2024-08-10": 18
+      "2024-08-11": 18
     }
   },
   {
@@ -101,16 +100,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo-e.cloud.eramba.org.ico",
     "slug": "demo-enterprise-cloud",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.50%",
-    "uptimeMonth": "94.25%",
+    "uptimeWeek": "93.49%",
+    "uptimeMonth": "94.83%",
     "uptimeYear": "99.14%",
-    "time": 803,
-    "timeDay": 912,
-    "timeWeek": 768,
-    "timeMonth": 827,
-    "timeYear": 852,
+    "time": 805,
+    "timeDay": 1630,
+    "timeWeek": 844,
+    "timeMonth": 857,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2025-08-06": 80,
       "2025-08-05": 63,
@@ -165,8 +164,7 @@
       "2024-08-18": 18,
       "2024-08-13": 18,
       "2024-08-12": 18,
-      "2024-08-11": 35,
-      "2024-08-10": 18
+      "2024-08-11": 35
     }
   },
   {
@@ -177,14 +175,14 @@
     "status": "up",
     "uptime": "98.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.50%",
-    "uptimeMonth": "94.25%",
+    "uptimeWeek": "93.49%",
+    "uptimeMonth": "94.83%",
     "uptimeYear": "97.07%",
-    "time": 4613,
-    "timeDay": 10000,
-    "timeWeek": 5393,
-    "timeMonth": 6559,
-    "timeYear": 5306,
+    "time": 4626,
+    "timeDay": 10036,
+    "timeWeek": 5686,
+    "timeMonth": 6749,
+    "timeYear": 5309,
     "dailyMinutesDown": {
       "2025-08-06": 80,
       "2025-08-05": 63,
@@ -257,8 +255,7 @@
       "2024-08-16": 18,
       "2024-08-13": 18,
       "2024-08-12": 18,
-      "2024-08-11": 35,
-      "2024-08-10": 18
+      "2024-08-11": 35
     }
   }
 ]
