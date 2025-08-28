@@ -1,7 +1,7 @@
 url: https://demo-e.cloud.eramba.org/api/projects/index
-status: up
-code: 200
-responseTime: 8376
-lastUpdated: 2025-08-27T23:00:54.252Z
+status: down
+code: 500
+responseTime: 90
+lastUpdated: 2025-08-28T05:37:51.706Z
 startTime: 2022-10-17T10:04:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
