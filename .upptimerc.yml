@@ -12,6 +12,8 @@ sites:
     url: https://www.eramba.org/learning
   - name: Eramba Discussions
     url: https://discussions.eramba.org/about
+  - name: Eramba Download portal
+    url: https://downloads.eramba.org/downloads/login
   - name: Eramba Support
     url: https://support-v3.eramba.org/ping.html
   - name: Eramba Plugins
