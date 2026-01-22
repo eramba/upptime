@@ -13,7 +13,7 @@ sites:
   - name: Eramba Discussions
     url: https://discussions.eramba.org/about
   - name: Eramba Support
-    url: https://support-v3.eramba.org/login
+    url: https://support-v3.eramba.org/ping.html
   - name: Eramba Plugins
     url: https://plugins.eramba.org
     __dangerous__body_down_if_text_missing: "This is a private Composer repository."
