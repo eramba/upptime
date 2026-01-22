@@ -8,6 +8,8 @@ workflowSchedule:
 sites:
   - name: Eramba Web
     url: https://www.eramba.org/about-us
+  - name: Eramba Learning
+    url: https://www.eramba.org/learning
   - name: Eramba Discussions
     url: https://discussions.eramba.org/about
   - name: Eramba Plugins
