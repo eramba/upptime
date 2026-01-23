@@ -69,19 +69,19 @@
     "url": "https://downloads.eramba.org/downloads/login",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.eramba.org.ico",
     "slug": "eramba-download-portal",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 7578,
-    "timeDay": 10334,
-    "timeWeek": 7578,
-    "timeMonth": 7578,
-    "timeYear": 7578,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 5971,
+    "timeDay": 5743,
+    "timeWeek": 5971,
+    "timeMonth": 5971,
+    "timeYear": 5971,
     "dailyMinutesDown": {
-      "2026-01-23": 1
+      "2026-01-23": 2
     }
   },
   {
