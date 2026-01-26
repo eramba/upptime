@@ -16,9 +16,6 @@ sites:
     url: https://downloads.eramba.org/downloads/login
   - name: Eramba Support
     url: https://support-v3.eramba.org/ping.html
-  - name: Eramba Plugins
-    url: https://plugins.eramba.org
-    __dangerous__body_down_if_text_missing: "This is a private Composer repository."
   - name: Demo Community Cloud
     url: https://demo.cloud.eramba.org/login
   - name: Demo Enterprise Cloud
