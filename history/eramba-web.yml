@@ -1,7 +1,7 @@
 url: https://www.eramba.org/about-us
-status: down
-code: 503
+status: up
+code: 200
 responseTime: 708
-lastUpdated: 2026-02-18T14:17:32.659Z
+lastUpdated: 2026-02-18T14:50:04.940Z
 startTime: 2022-10-14T11:58:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
