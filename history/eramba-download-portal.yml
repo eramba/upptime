@@ -1,7 +1,7 @@
 url: https://downloads.eramba.org/downloads/login
-status: down
-code: 504
-responseTime: 10388
-lastUpdated: 2026-05-21T22:03:43.195Z
+status: up
+code: 200
+responseTime: 560
+lastUpdated: 2026-05-21T22:42:06.752Z
 startTime: 2026-01-22T16:42:28.143Z
 generator: Upptime <https://github.com/upptime/upptime>
