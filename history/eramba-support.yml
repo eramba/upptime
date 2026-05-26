@@ -1,7 +1,7 @@
 url: https://support-v3.eramba.org/ping.html
-status: up
-code: 200
-responseTime: 338
-lastUpdated: 2026-05-25T23:21:19.368Z
+status: down
+code: 504
+responseTime: 10477
+lastUpdated: 2026-05-26T22:07:57.177Z
 startTime: 2026-01-22T15:44:17.560Z
 generator: Upptime <https://github.com/upptime/upptime>
