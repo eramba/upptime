@@ -69,17 +69,17 @@
     "url": "https://downloads.eramba.org/downloads/login",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.eramba.org.ico",
     "slug": "eramba-download-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.80%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "98.77%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.55%",
-    "time": 4818,
-    "timeDay": 509,
-    "timeWeek": 4736,
-    "timeMonth": 2882,
-    "timeYear": 4818,
+    "time": 4850,
+    "timeDay": 5395,
+    "timeWeek": 5132,
+    "timeMonth": 3030,
+    "timeYear": 4850,
     "dailyMinutesDown": {
       "2026-01-23": 2,
       "2026-01-26": 3,
@@ -114,7 +114,8 @@
       "2026-05-20": 93,
       "2026-05-21": 38,
       "2026-05-25": 88,
-      "2026-05-26": 34
+      "2026-05-26": 34,
+      "2026-05-31": 3
     }
   },
   {
@@ -203,17 +204,17 @@
     "url": "https://demo-e.cloud.eramba.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo-e.cloud.eramba.org.ico",
     "slug": "demo-enterprise-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "98.60%",
-    "time": 746,
-    "timeDay": 313,
-    "timeWeek": 285,
-    "timeMonth": 309,
-    "timeYear": 690,
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "98.59%",
+    "time": 744,
+    "timeDay": 284,
+    "timeWeek": 280,
+    "timeMonth": 306,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2025-06-03": 18,
       "2025-06-12": 18,
@@ -267,7 +268,7 @@
       "2026-04-19": 27,
       "2026-05-02": 52,
       "2026-05-28": 82,
-      "2026-05-31": 1
+      "2026-05-31": 38
     }
   },
   {
@@ -275,17 +276,17 @@
     "url": "https://demo-e.cloud.eramba.org/api/projects/index",
     "icon": "https://icons.duckduckgo.com/ip3/demo-e.cloud.eramba.org.ico",
     "slug": "demo-enterprise-cloud-api",
-    "status": "down",
-    "uptime": "98.78%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "97.15%",
-    "uptimeYear": "97.81%",
-    "time": 4778,
-    "timeDay": 813,
-    "timeWeek": 1023,
-    "timeMonth": 852,
-    "timeYear": 4255,
+    "status": "up",
+    "uptime": "98.77%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "97.06%",
+    "uptimeYear": "97.80%",
+    "time": 4769,
+    "timeDay": 776,
+    "timeWeek": 994,
+    "timeMonth": 848,
+    "timeYear": 4248,
     "dailyMinutesDown": {
       "2025-06-03": 18,
       "2025-06-12": 18,
@@ -353,7 +354,7 @@
       "2026-05-15": 402,
       "2026-05-14": 149,
       "2026-05-28": 82,
-      "2026-05-31": 0
+      "2026-05-31": 38
     }
   }
 ]
