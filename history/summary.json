@@ -212,17 +212,17 @@
     "url": "https://demo-e.cloud.eramba.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo-e.cloud.eramba.org.ico",
     "slug": "demo-enterprise-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "98.59%",
-    "time": 735,
-    "timeDay": 204,
-    "timeWeek": 303,
+    "time": 734,
+    "timeDay": 249,
+    "timeWeek": 302,
     "timeMonth": 297,
-    "timeYear": 673,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2025-06-12": 18,
       "2025-06-14": 477,
@@ -275,7 +275,8 @@
       "2026-04-19": 27,
       "2026-05-02": 52,
       "2026-05-28": 82,
-      "2026-05-31": 38
+      "2026-05-31": 38,
+      "2026-06-10": 1
     }
   },
   {
@@ -283,17 +284,17 @@
     "url": "https://demo-e.cloud.eramba.org/api/projects/index",
     "icon": "https://icons.duckduckgo.com/ip3/demo-e.cloud.eramba.org.ico",
     "slug": "demo-enterprise-cloud-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "98.29%",
     "uptimeYear": "97.79%",
-    "time": 4681,
-    "timeDay": 1084,
-    "timeWeek": 903,
-    "timeMonth": 888,
-    "timeYear": 4056,
+    "time": 4666,
+    "timeDay": 611,
+    "timeWeek": 826,
+    "timeMonth": 869,
+    "timeYear": 4048,
     "dailyMinutesDown": {
       "2025-06-12": 18,
       "2025-06-14": 477,
@@ -361,7 +362,8 @@
       "2026-05-14": 149,
       "2026-05-28": 82,
       "2026-05-31": 38,
-      "2026-06-03": 80
+      "2026-06-03": 80,
+      "2026-06-10": 0
     }
   }
 ]
