@@ -73,9 +73,9 @@
     "slug": "eramba-download-portal",
     "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "98.78%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "99.39%",
     "time": 4336,
     "timeDay": 5518,
@@ -128,7 +128,7 @@
       "2026-06-18": 82,
       "2026-06-25": 21,
       "2026-06-27": 30,
-      "2026-06-28": 3
+      "2026-06-28": 10
     }
   },
   {
