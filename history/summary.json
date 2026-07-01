@@ -71,17 +71,17 @@
     "url": "https://downloads.eramba.org/downloads/login",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.eramba.org.ico",
     "slug": "eramba-download-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "97.36%",
-    "uptimeWeek": "98.65%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "98.64%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.37%",
-    "time": 4280,
-    "timeDay": 3868,
-    "timeWeek": 2862,
-    "timeMonth": 2503,
-    "timeYear": 4280,
+    "time": 4263,
+    "timeDay": 3041,
+    "timeWeek": 2697,
+    "timeMonth": 2465,
+    "timeYear": 4263,
     "dailyMinutesDown": {
       "2026-01-23": 2,
       "2026-01-26": 3,
@@ -129,7 +129,8 @@
       "2026-06-25": 21,
       "2026-06-27": 30,
       "2026-06-28": 48,
-      "2026-06-30": 38
+      "2026-06-30": 38,
+      "2026-07-01": 0
     }
   },
   {
@@ -137,17 +138,17 @@
     "url": "https://support-v3.eramba.org/ping.html",
     "icon": "https://icons.duckduckgo.com/ip3/support-v3.eramba.org.ico",
     "slug": "eramba-support",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "97.41%",
+    "uptimeDay": "97.39%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.78%",
-    "time": 1929,
-    "timeDay": 3825,
-    "timeWeek": 1576,
-    "timeMonth": 1532,
-    "timeYear": 1929,
+    "time": 1921,
+    "timeDay": 2977,
+    "timeWeek": 1462,
+    "timeMonth": 1504,
+    "timeYear": 1921,
     "dailyMinutesDown": {
       "2026-01-22": 4,
       "2026-01-26": 2,
@@ -172,7 +173,8 @@
       "2026-06-02": 49,
       "2026-06-04": 40,
       "2026-06-10": 25,
-      "2026-06-30": 37
+      "2026-06-30": 37,
+      "2026-07-01": 0
     }
   },
   {
