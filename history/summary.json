@@ -189,7 +189,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.65%",
+    "uptimeYear": "99.68%",
     "time": 761,
     "timeDay": 263,
     "timeWeek": 299,
@@ -226,16 +226,16 @@
     "url": "https://demo-e.cloud.eramba.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo-e.cloud.eramba.org.ico",
     "slug": "demo-enterprise-cloud",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "98.69%",
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "88.52%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "98.66%",
     "time": 710,
-    "timeDay": 199,
-    "timeWeek": 306,
-    "timeMonth": 321,
+    "timeDay": 265,
+    "timeWeek": 316,
+    "timeMonth": 323,
     "timeYear": 621,
     "dailyMinutesDown": {
       "2025-07-07": 18,
@@ -284,7 +284,7 @@
       "2026-05-28": 82,
       "2026-05-31": 38,
       "2026-06-10": 93,
-      "2026-07-03": 0
+      "2026-07-03": 165
     }
   },
   {
@@ -292,17 +292,17 @@
     "url": "https://demo-e.cloud.eramba.org/api/projects/index",
     "icon": "https://icons.duckduckgo.com/ip3/demo-e.cloud.eramba.org.ico",
     "slug": "demo-enterprise-cloud-api",
-    "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "97.88%",
-    "time": 4366,
-    "timeDay": 581,
-    "timeWeek": 902,
-    "timeMonth": 967,
-    "timeYear": 3616,
+    "status": "up",
+    "uptime": "98.80%",
+    "uptimeDay": "88.53%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "97.85%",
+    "time": 4369,
+    "timeDay": 1291,
+    "timeWeek": 1103,
+    "timeMonth": 1033,
+    "timeYear": 3614,
     "dailyMinutesDown": {
       "2025-07-07": 18,
       "2025-07-08": 19,
@@ -365,7 +365,7 @@
       "2026-05-31": 38,
       "2026-06-03": 80,
       "2026-06-10": 86,
-      "2026-07-03": 0
+      "2026-07-03": 165
     }
   }
 ]
