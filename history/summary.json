@@ -4,11 +4,11 @@
     "url": "https://www.eramba.org/about-us",
     "icon": "https://icons.duckduckgo.com/ip3/www.eramba.org.ico",
     "slug": "eramba-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 801,
     "timeDay": 830,
@@ -19,7 +19,8 @@
       "2025-11-10": 11,
       "2026-02-18": 33,
       "2026-04-22": 41,
-      "2026-06-10": 53
+      "2026-06-10": 53,
+      "2026-07-26": 12
     }
   },
   {
@@ -27,11 +28,11 @@
     "url": "https://www.eramba.org/learning",
     "icon": "https://icons.duckduckgo.com/ip3/www.eramba.org.ico",
     "slug": "eramba-learning",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 516,
     "timeDay": 606,
@@ -40,7 +41,8 @@
     "timeYear": 516,
     "dailyMinutesDown": {
       "2026-04-22": 42,
-      "2026-06-10": 46
+      "2026-06-10": 46,
+      "2026-07-26": 5
     }
   },
   {
