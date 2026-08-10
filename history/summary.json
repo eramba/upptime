@@ -187,13 +187,13 @@
     "url": "https://demo.cloud.eramba.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo.cloud.eramba.org.ico",
     "slug": "demo-community-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.70%",
-    "time": 725,
+    "time": 724,
     "timeDay": 196,
     "timeWeek": 291,
     "timeMonth": 335,
@@ -222,7 +222,8 @@
       "2026-05-12": 525,
       "2026-06-10": 18,
       "2026-07-06": 432,
-      "2026-07-20": 49
+      "2026-07-20": 49,
+      "2026-08-10": 0
     }
   },
   {
@@ -230,16 +231,16 @@
     "url": "https://demo-e.cloud.eramba.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo-e.cloud.eramba.org.ico",
     "slug": "demo-enterprise-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.23%",
-    "time": 665,
-    "timeDay": 351,
-    "timeWeek": 359,
-    "timeMonth": 349,
+    "time": 664,
+    "timeDay": 387,
+    "timeWeek": 371,
+    "timeMonth": 353,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2025-08-11": 34,
@@ -273,7 +274,7 @@
       "2026-05-31": 38,
       "2026-06-10": 93,
       "2026-07-03": 165,
-      "2026-08-10": 1
+      "2026-08-10": 29
     }
   },
   {
@@ -281,17 +282,17 @@
     "url": "https://demo-e.cloud.eramba.org/api/projects/index",
     "icon": "https://icons.duckduckgo.com/ip3/demo-e.cloud.eramba.org.ico",
     "slug": "demo-enterprise-cloud-api",
-    "status": "down",
+    "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.43%",
-    "time": 3866,
-    "timeDay": 559,
-    "timeWeek": 928,
-    "timeMonth": 1047,
-    "timeYear": 2969,
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "98.42%",
+    "time": 3851,
+    "timeDay": 735,
+    "timeWeek": 946,
+    "timeMonth": 1048,
+    "timeYear": 2965,
     "dailyMinutesDown": {
       "2025-08-11": 34,
       "2025-08-12": 27,
@@ -339,7 +340,7 @@
       "2026-06-03": 80,
       "2026-06-10": 86,
       "2026-07-03": 165,
-      "2026-08-10": 0
+      "2026-08-10": 29
     }
   }
 ]
