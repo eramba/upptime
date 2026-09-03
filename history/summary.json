@@ -141,11 +141,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/support-v3.eramba.org.ico",
     "slug": "eramba-support",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 1555,
     "timeDay": 719,
     "timeWeek": 543,
@@ -231,15 +231,15 @@
     "url": "https://demo-e.cloud.eramba.org/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo-e.cloud.eramba.org.ico",
     "slug": "demo-enterprise-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.36%",
-    "time": 637,
-    "timeDay": 400,
-    "timeWeek": 394,
+    "uptimeYear": "99.39%",
+    "time": 636,
+    "timeDay": 391,
+    "timeWeek": 393,
     "timeMonth": 378,
     "timeYear": 536,
     "dailyMinutesDown": {
@@ -267,7 +267,8 @@
       "2026-05-31": 38,
       "2026-06-10": 93,
       "2026-07-03": 165,
-      "2026-08-10": 29
+      "2026-08-10": 29,
+      "2026-09-03": 1
     }
   },
   {
@@ -275,17 +276,17 @@
     "url": "https://demo-e.cloud.eramba.org/api/projects/index",
     "icon": "https://icons.duckduckgo.com/ip3/demo-e.cloud.eramba.org.ico",
     "slug": "demo-enterprise-cloud-api",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.38%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "76.63%",
-    "uptimeYear": "96.62%",
-    "time": 3611,
-    "timeDay": 1174,
-    "timeWeek": 898,
-    "timeMonth": 1004,
-    "timeYear": 2639,
+    "uptimeYear": "96.65%",
+    "time": 3593,
+    "timeDay": 684,
+    "timeWeek": 828,
+    "timeMonth": 985,
+    "timeYear": 2644,
     "dailyMinutesDown": {
       "2025-09-09": 37,
       "2025-09-13": 480,
@@ -335,7 +336,8 @@
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 564,
-      "2026-09-01": 57
+      "2026-09-01": 57,
+      "2026-09-03": 0
     }
   }
 ]
