@@ -46,6 +46,24 @@
     }
   },
   {
+    "name": "Eramba Web API",
+    "url": "https://learning.eramba.org/api/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/learning.eramba.org.ico",
+    "slug": "eramba-web-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Eramba Discussions",
     "url": "https://discussions.eramba.org/about",
     "icon": "https://icons.duckduckgo.com/ip3/discussions.eramba.org.ico",
@@ -277,11 +295,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo-e.cloud.eramba.org.ico",
     "slug": "demo-enterprise-cloud-api",
     "status": "down",
-    "uptime": "98.37%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "92.29%",
-    "uptimeMonth": "74.86%",
-    "uptimeYear": "96.50%",
+    "uptime": "98.36%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "91.81%",
+    "uptimeMonth": "74.75%",
+    "uptimeYear": "96.49%",
     "time": 3494,
     "timeDay": 855,
     "timeWeek": 989,
@@ -338,7 +356,7 @@
       "2026-09-01": 57,
       "2026-09-04": 461,
       "2026-09-03": 315,
-      "2026-09-09": 0
+      "2026-09-09": 49
     }
   }
 ]
