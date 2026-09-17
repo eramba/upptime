@@ -1,7 +1,7 @@
 url: https://learning.eramba.org/api/healthz
-status: down
-code: 502
-responseTime: 380
-lastUpdated: 2026-09-17T04:28:16.612Z
+status: up
+code: 200
+responseTime: 562
+lastUpdated: 2026-09-17T04:43:59.621Z
 startTime: 2026-09-09T11:27:52.320Z
 generator: Upptime <https://github.com/upptime/upptime>
