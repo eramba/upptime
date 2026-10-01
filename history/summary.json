@@ -304,17 +304,17 @@
     "url": "https://demo-e.cloud.eramba.org/api/projects/index",
     "icon": "https://icons.duckduckgo.com/ip3/demo-e.cloud.eramba.org.ico",
     "slug": "demo-enterprise-cloud-api",
-    "status": "down",
-    "uptime": "98.35%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.29%",
-    "uptimeYear": "96.31%",
-    "time": 3138,
-    "timeDay": 752,
-    "timeWeek": 1071,
-    "timeMonth": 986,
-    "timeYear": 2282,
+    "status": "up",
+    "uptime": "98.34%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "94.16%",
+    "uptimeYear": "96.30%",
+    "time": 3140,
+    "timeDay": 1024,
+    "timeWeek": 1126,
+    "timeMonth": 1015,
+    "timeYear": 2280,
     "dailyMinutesDown": {
       "2025-10-03": 223,
       "2025-10-09": 7,
@@ -369,7 +369,7 @@
       "2026-09-12": 199,
       "2026-09-20": 826,
       "2026-09-19": 442,
-      "2026-10-01": 0
+      "2026-10-01": 60
     }
   }
 ]
